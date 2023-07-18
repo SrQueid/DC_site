@@ -1,8 +1,16 @@
 {
     "name": "DC_sys",
     "version": "1.0.0",
-    "keywords": ["util", "functional", "server", "client", "browser"],
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
     "author": "Acre",
     "contributors": [],
-    "dependencies": {}
+    "devDependencies": {
+        "eslint": "^8.45.0"
+    }
 }
